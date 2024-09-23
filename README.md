@@ -10,13 +10,13 @@
 
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
-- **Node.js** (version X.X.X or higher)
+- **Node.js** 
 - **npm** (Node Package Manager)
 - **MongoDB Atlas** account (for cloud database)
 
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/MoneyTransfer-App.git
+   git clone https://github.com/Digvijay-pawar/MoneyTransfer-App.git
    cd MoneyTransfer-App/backend
 
